@@ -1,6 +1,10 @@
 import { makeStyles } from '@mui/styles';
 
 export default makeStyles({
+  
+  main_container:{
+  background: 'rgba(0,0,0,0.5)'
+  },
 
   
   logoContainer: {
