@@ -3,7 +3,9 @@ import { makeStyles } from '@mui/styles';
 export default makeStyles({
   
   main_container:{
-  background: 'rgba(0,0,0,0.5)'
+  background: 'rgba(0,0,0,0.5)';
+  width: '100%';
+  height: '100%';
   },
 
   
