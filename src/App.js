@@ -46,7 +46,7 @@ const App = () => {
   return (
     <div>
       <div className={classes.logoContainer}>
-        <h1 className={classes.title}>AI News</h1>
+        <h1 className={classes.title}>Daily AI News</h1>
                 {/* <img src="https://img.freepik.com/free-vector/people-watching-breaking-news-phone_52683-42834.jpg?t=st=1650204390~exp=1650204990~hmac=57ea714ab9b28def892149fcea548a34dbedf39565bf7f95a12f46c267c663e0&w=1060" className={classes.Logo} alt='logo' /> */}
             </div>
       <NewsCards articles={newsArticles} activeArticle={activeArticle} />
